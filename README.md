@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey!
+
+My name's Marco, and I'm an aspiring Software Engineer. I'm currently studying Computer Science at Northern Arizona University.
+
+
+---
+I'm currently learning:
+- Kotlin
+- Go
+- Enumeration verbosity
 
 <!--
 **marcojdelarosa/marcojdelarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
