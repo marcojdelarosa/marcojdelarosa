@@ -7,7 +7,7 @@ My name's Marco, and I'm an aspiring Software Engineer. I'm currently studying C
 I'm currently learning:
 - Kotlin
 - Go
-- Enumeration verbosity
+- Semantic Array Verbosity
 
 <!--
 **marcojdelarosa/marcojdelarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
