@@ -1,6 +1,6 @@
 ## Hey!
 
-My name's Marco, and I'm an aspiring Software Engineer. I'm currently studying Computer Science at Northern Arizona University. I'm constantly trying to create new projects and get better at programming. 
+My name's Marco. I'm studying Computer Science at Northern Arizona University. I'm constantly trying to create new projects and get better at programming. 
 
 
 ---
